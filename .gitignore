@@ -1,0 +1,7 @@
+*__pycache__
+*.pyc
+*.idea
+logs*
+*.ipynb_checkpoints
+tf_models
+!.dockerignore
